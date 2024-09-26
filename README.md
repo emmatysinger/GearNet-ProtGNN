@@ -1,6 +1,6 @@
 # GearNet-ProtGNN: Protein function prediction model from protein structure and biomedical knowledge
 
-This repository hosts the official implementation of ProtGNN, a model for predicting protein function. 
+This repository hosts the official implementation of GearNet-ProtGNN, a model for predicting protein function. 
 
 ### **Path**
 - Must change line 13 in `os.environ['WAND_EXECUTABLE']` to local path to python in `training_downstream.py`
